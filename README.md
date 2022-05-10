@@ -1,4 +1,3 @@
-## ERC-721 NFT Marketplace with royalties payment (EIP-2981)
 
 
 ### Overview
